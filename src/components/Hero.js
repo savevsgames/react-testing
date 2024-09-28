@@ -4,8 +4,9 @@ const Hero = () => {
       <div className="hero-banner">
         <h1>continue exploring</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          Exploration is the essence of the human spirit. For those who seek the
+          thrill of adventure, there is no better way to experience the world
+          than Backroads!
         </p>
         <a href="#tours" className="btn hero-btn">
           explore tours
